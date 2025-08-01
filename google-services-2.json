@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702674446139",
+    "project_id": "digiwardrobe-3862e",
+    "storage_bucket": "digiwardrobe-3862e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702674446139:android:b714cb410d2b69c6c5f91e",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUiKPSrt5rbyfXEFkeA6bfyBKE47stJSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
